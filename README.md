@@ -1,5 +1,5 @@
-# Projects
-## 1. Sales Data Analysis Pipeline with Pandas
+# Project Overview
+## Sales Data Analysis Pipeline with Pandas
 #### Key Features
 - **Data Generation:** Creates synthetic sales data with realistic patterns spanning 2 years.
 - **Data Cleaning & Preparation:** Handles missing values, creates calculated fields, and prepares data for analysis.
